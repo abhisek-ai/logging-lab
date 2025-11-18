@@ -31,14 +31,14 @@ A comprehensive Python logging tutorial that demonstrates advanced logging techn
    - Generates performance summaries
    - Creates detailed error reports
 
-## 📁 Output Files
+## Output Files
 
 After running, the following log files are created:
 
 - `performance_monitor.log` - Complete application logs with all levels
 - `errors.log` - Error-level logs only for debugging
 
-## 🎓 Learning Objectives
+## Learning Objectives
 
 - Configure Python's logging module for production use
 - Implement performance monitoring in applications
@@ -48,7 +48,7 @@ After running, the following log files are created:
 - Use decorators for aspect-oriented programming
 - Implement context managers for resource tracking
 
-## 📊 Sample Output
+## Sample Output
 ```
 INFO: Application Performance Monitor Started
 INFO: UPDATE query affected 20 rows
