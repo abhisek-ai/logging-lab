@@ -49,7 +49,7 @@ After running, the following log files are created:
 - Implement context managers for resource tracking
 
 ## 📊 Sample Output
-
+```
 INFO: Application Performance Monitor Started
 INFO: UPDATE query affected 20 rows
 WARNING: Slow function: simulate_database_query took 133.42ms (threshold: 50ms)
